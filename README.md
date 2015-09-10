@@ -1,6 +1,6 @@
 ## Foliage Blue skin v1.1. for b2evolution CMS blog.
 
-<img src="skonshot.png"/>
+<img src="skinshot.png"/>
 
 #### v1.1.
 
