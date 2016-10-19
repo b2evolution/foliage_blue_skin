@@ -2,6 +2,12 @@
 
 <img src="skinshot.png"/>
 
+### Update Log:
+
+#### v1.1.1
+
+- New skinshot
+
 #### v1.1.
 
 - Sitewide_header included for easier multi-blogging experience
